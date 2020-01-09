@@ -1,8 +1,15 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "cdb91040-32d2-11ea-9297-85c67bd86c6e",
+  "do_objectID": "2E037EB5-ACF9-45B8-BA6A-7780801E729E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,60 +22,55 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 384,
+    "width": 431,
+    "x": 698,
+    "y": 70
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "0362D769-6B1E-4896-B8F7-A8636362B927"
-    },
-    {
-      "class": "artboard",
-      "id": "2E037EB5-ACF9-45B8-BA6A-7780801E729E"
+      "class": "symbolInstance",
+      "id": "66F5B883-A40D-4DD9-9071-D2C746A58930"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Dratuti Copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
-    }
+    "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }

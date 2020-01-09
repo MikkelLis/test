@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DD894041-2161-4EFC-BD7F-6B2A840F8EE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 473,
+    "width": 473,
+    "x": -246,
+    "y": -229
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "47E9B251-13B0-44B0-BE77-FC9497C7798E"
+    },
+    {
+      "class": "rectangle",
+      "id": "AC1D2989-416F-476C-997D-3E3ED5FD4C97"
+    },
+    {
+      "class": "rectangle",
+      "id": "5EA7320A-78EE-4F4E-BD0E-1EBF8789C548"
+    },
+    {
+      "class": "rectangle",
+      "id": "43ABB5C8-92AF-4E35-844F-70D37BB83E46"
+    },
+    {
+      "class": "shapePath",
+      "id": "2AC1AD03-AA69-4621-9463-70E494EE28E4"
+    },
+    {
+      "class": "shapePath",
+      "id": "0C36F6DF-1EE4-43AB-BA83-BDFD9878DA6F"
+    },
+    {
+      "class": "shapePath",
+      "id": "CC253524-AF2B-4864-9A80-B35E43BCE029"
+    },
+    {
+      "class": "shapePath",
+      "id": "21B0B6B6-1C1C-49FA-8CE9-3587C5EC58FE"
+    },
+    {
+      "class": "shapePath",
+      "id": "C0077759-46C6-4D86-AA70-C148E49F4476"
+    },
+    {
+      "class": "shapePath",
+      "id": "96CF6E65-882F-476E-A88B-6768A22B965A"
+    },
+    {
+      "class": "shapePath",
+      "id": "F6884A63-6452-4FE0-9146-E475BC1D2024"
+    }
+  ],
+  "name": "Agrhhh",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

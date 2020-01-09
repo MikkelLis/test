@@ -37,7 +37,9 @@
     "version": 119
   },
   "pages": [
-    "Page 1"
+    "Page 1",
+    "Page 2",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

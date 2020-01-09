@@ -1,8 +1,8 @@
 {
   "_class": "page",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "cdb91040-32d2-11ea-9297-85c67bd86c6e",
+  "do_objectID": "23C3A056-FFE1-4CF7-806E-FE4E79B7C9AC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 0,
+    "width": 0,
     "x": 0,
     "y": 0
   },
@@ -27,7 +27,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": -451,
     "guides": [
     ]
   },
@@ -41,14 +41,10 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "0362D769-6B1E-4896-B8F7-A8636362B927"
-    },
-    {
-      "class": "artboard",
-      "id": "2E037EB5-ACF9-45B8-BA6A-7780801E729E"
+      "id": "DD894041-2161-4EFC-BD7F-6B2A840F8EE4"
     }
   ],
-  "name": "Page 1",
+  "name": "Page 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -59,7 +55,7 @@
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
@@ -68,7 +64,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": -377,
     "guides": [
     ]
   }
